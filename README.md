@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tomás Vargas, visit my website <a href="https://tomvargas.github.io/" target="_blank">tovpy</a>.
+## Hi there <img width="20px" src="https://emoji.gg/assets/emoji/8950_abloblurk.gif"/> I'm Tomás Vargas, visit my website <a href="https://tomvargas.github.io/" target="_blank">tovpy</a>.
 
 <img align="left" width="350" src="https://i.imgur.com/WtVOjr6.gif"/>
 <hr>

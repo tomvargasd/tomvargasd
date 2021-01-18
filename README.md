@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tomás Vargas, visit my website <a href="https://tomvargas.github.io/" target="_blank">tovpy</a>.
 
-<img align="left" width="320" src="https://i.imgur.com/WtVOjr6.gif"/>
+<img align="left" width="350" src="https://i.imgur.com/WtVOjr6.gif"/>
 
 <img width="20px" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> Learning and working on personal projects
 

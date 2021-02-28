@@ -7,7 +7,7 @@
 
 <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728"/> Currently learning android development
 
-<img width="20px" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Practicing web design
+<img width="20px" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Always practicing web design
 
 <img width="20px" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/rupee.gif"/> My skills: 
 

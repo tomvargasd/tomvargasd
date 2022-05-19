@@ -3,11 +3,11 @@
 <img align="left" width="350" src="https://i.imgur.com/WtVOjr6.gif"/>
 <hr>
 
-<img width="20px" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> Learning and working on personal projects
+<img width="20px" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> Working on personal projects
 
-<img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728"/> Currently learning android development
+<img width="20px" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728"/> Currently learning mobile development
 
-<img width="20px" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Always practicing web design
+<img width="20px" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Always practicing
 
 <img width="20px" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/rupee.gif"/> My skills: 
 

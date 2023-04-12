@@ -16,9 +16,8 @@
 
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>
 <code><img src="https://cdn.icon-icons.com/icons2/112/PNG/64/python_18894.png" width="20px"/></code> 
-<code><img src="https://icon-icons.com/icons2/2415/PNG/48/cplusplus_original_logo_icon_146581.png" width="20px"/></code> 
 <code><img src="https://icon-icons.com/icons2/2415/PNG/48/csharp_original_logo_icon_146578.png" width="20px"/></code> 
-<code><img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_html_icon_130541.png" width="20px"/></code> 
-<code><img src="https://icon-icons.com/icons2/2107/PNG/48/file_type_css_icon_130661.png" width="20px"/></code> 
 <code><img src="https://icon-icons.com/icons2/2108/PNG/48/javascript_icon_130900.png" width="20px"/></code> 
 <code><img src="https://icon-icons.com/icons2/2415/PNG/48/react_original_logo_icon_146374.png" width="20px"/></code>
+<code><img src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png" width="20px"/></code>
+<code><img src="https://juancenteno.info/wp-content/uploads/2017/02/php.png" width="20px"/></code>

@@ -1,7 +1,4 @@
-## Hi there <img width="20" alt="hello" src="https://emoji.gg/assets/emoji/8950_abloblurk.gif"> I'm Tomás Vargas, visit my website <a href="https://www.tomvargas.com" target="_blank" >tomvargas.com</a>.
-
-
-  
+### Hi there I'm Tomás Vargas, visit my website <a href="https://www.tomvargas.com" target="_blank" >tomvargas.com</a>.
 
 
 ![Tomvargas GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargas&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)

@@ -1,8 +1,8 @@
-### Hi there I'm Tomás Vargas, visit my website <a href="https://www.tomvargas.com" target="_blank" >tomvargas.com</a>.
+### Hi there I'm Tomás Vargas, this is my new account, visit my website <a href="https://www.tomvargas.com" target="_blank" >tomvargas.com</a>.
 
 
-![Tomvargas GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargas&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomvargas&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![tomvargasd GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargasd&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomvargasd&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="jpg" width="250px" src="https://i.pinimg.com/564x/96/a9/8f/96a98f7a849d12efe323b56c9ad69eab.jpg" /> 
   <hr>

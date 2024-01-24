@@ -2,13 +2,13 @@
 
 
 ![tomvargasd GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargasd&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomvargasd&hide=liquid&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomvargasd&hide=liquid&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="jpg" width="250px" src="https://i.pinimg.com/564x/96/a9/8f/96a98f7a849d12efe323b56c9ad69eab.jpg" /> 
+<img align="left" alt="jpg" width="250px" src="rin.png" /> 
   <hr>
-<p><img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> Working on projects</p>
-<p><img width="20" src="https://emoji.discadia.com/emojis/dad9476b-f8b3-4a03-81bd-9c16061293bb.GIF"/> Making mobile Apps</p>
-<p><img width="20" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Always practicing</p>
+<p><img width="20" src="https://emoji.discadia.com/emojis/dad9476b-f8b3-4a03-81bd-9c16061293bb.GIF"/> Developing <strong>Android/iOS Apps</strong> with Flutter</p>
+<p><img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> <strong>Working</strong> on personal projects</p>
+<p><img width="20" src="https://emoji.gg/assets/emoji/5856_ablobsunglasses.gif"/> Developing and creating concept arts for <strong>games</strong></p>
 <p><img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/rupee.gif"/> My skills: </p>
 
 <code><img src="https://icon-icons.com/icons2/195/PNG/48/Java_23404.png" width="20px"/></code>

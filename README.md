@@ -4,7 +4,7 @@
 ![tomvargasd GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargasd&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomvargasd&hide=liquid&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="jpg" width="250px" src="rin.png" /> 
+<img align="left" alt="jpg" width="180px" src="rin.png" /> 
   <hr>
 <p><img width="20" src="https://emoji.discadia.com/emojis/dad9476b-f8b3-4a03-81bd-9c16061293bb.GIF"/> Developing <strong>Android/iOS Apps</strong> with Flutter</p>
 <p><img width="20" src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/twitch-1000.gif"/> <strong>Working</strong> on personal projects</p>

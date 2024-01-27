@@ -1,4 +1,4 @@
-### Hi there I'm Tomás Vargas, this is my new account, visit my website <a href="https://www.tomvargas.com" target="_blank" >tomvargas.com</a>.
+### Hi there I'm Tomás Vargas, this is my new account, visit my website <a href="https://tomvargas.com" target="_blank" >tomvargas.com</a>.
 
 
 ![tomvargasd GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvargasd&show_icons=true&icon_color=4ff6fa&theme=tokyonight&hide=issues&hide_border=true)

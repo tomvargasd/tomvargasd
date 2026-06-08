@@ -9,19 +9,28 @@
 
 <h4 align="center">Cuenta antigua <a href="https://github.com/tomvargas" target="_blank" >tomvargas</a></h4>
 <hr>
-
-<h2><img width="30" src="https://cdn3.emoji.gg/emojis/64672-pengu-hackerman.gif"/> <strong>Proyectos</strong> en los que estoy trabajando:</h2>
-
-
-<p><img width="20" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas de vision computacional con modelos entrenado base YOLO26</p>
-<p><img width="20" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas automatizados con servicios de IA</p>
-<p><img width="20" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Integraciones con ERP y E-commerce</p>
+<img width="50" src="https://cdn3.emoji.gg/emojis/64672-pengu-hackerman.gif"/> 
+<h2><strong>Proyectos</strong> en los que estoy trabajando:</h2>
+<p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas de vision computacional con modelos entrenados con base YOLO26</p>
+<p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas automatizados con servicios de IA</p>
+<p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Integraciones con ERP y E-commerce</p>
 
 <h2>Tecnologías: </h2>
-
-<code><img src="https://images.icon-icons.com/112/PNG/512/python_18894.png" width="20px"/></code>
-<code><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics-logomark-color.png" width="20px"/></code>
-<code><img src="https://images.icon-icons.com/2415/PNG/512/laravel_plain_logo_icon_146438.png" width="20px"/></code>
-<code><img src="https://images.seeklogo.com/logo-png/64/2/docker-icon-logo-png_seeklogo-643955.png" width="20px"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/aws-light.png" width="20px"/></code>
-<code><img src="https://www.apono.io/wp-content/uploads/2023/08/google-cloud-platform-logo-icon-2048x1824-pg4wzspq-1.png" width="20px"/></code>
+<p align="left">
+  <h4>Desarrollo</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,laravel,php,flutter,javascript,arduino"/>
+  </a>
+  <h4>Entorno y pruebas</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,cloudflare,postman,linux"/>
+  </a>
+  <h4>Bases de datos</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,sqlite"/>
+  </a>
+<h4>Extra</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,figma,tailwind,html,github,gitlab,ai,"/>
+  </a>
+</p>

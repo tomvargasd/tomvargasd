@@ -11,7 +11,7 @@
 <hr>
 <img width="50" src="https://cdn3.emoji.gg/emojis/64672-pengu-hackerman.gif"/> 
 <h2><strong>Proyectos</strong> en los que estoy trabajando:</h2>
-<p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas de vision computacional con modelos entrenados con base YOLO26</p>
+<p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas de vision IA con modelos entrenados en base YOLO26</p>
 <p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Sistemas automatizados con servicios de IA</p>
 <p><img width="17" src="https://cdn3.emoji.gg/emojis/850235-glowing-dot-green.png"/> Integraciones con ERP y E-commerce</p>
 
